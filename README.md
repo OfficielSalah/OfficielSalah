@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Elhazzime Salaheddin
 
-Hello, My name is Elhazzime Salaheddin, I am a full stack web developer with more than 3 years of experience, I aim to put my skills at the service of a company with an innovative culture, I Am Independent And Passionate For My Work Thanks to a thorough training course and a sum of professional experience, I became a professional in the design and production of web applications, I Can Speak With Three Languages: French, English, Arabic.
+Hello, My name is Elhazzime Salaheddin, I am a full stack web developer with more than 4 years of experience, I aim to put my skills at the service of a company with an innovative culture, I Am Independent And Passionate For My Work Thanks to a thorough training course and a sum of professional experience, I became a professional in the design and production of web applications, I Can Speak With Three Languages: French, English, Arabic.
 
 ## SKILLS
 
